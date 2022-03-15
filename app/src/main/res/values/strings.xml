@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AmazonWebScrapper</string>
+    <string name="enter_search_query">Enter Search Query</string>
+    <string name="product_image">product image</string>
+</resources>
